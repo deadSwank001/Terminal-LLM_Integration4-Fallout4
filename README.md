@@ -4,7 +4,8 @@ Repoes for adding LLM's as mods to in-game Fallout-: from the in-game terminals,
 Picture from : https://www.nexusmods.com/fallout4/mods/74190
 Nexus : HAL7032 aka Papyrus Terminal
 
-![alt text](image.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/00a22ca9-2534-4103-814e-bbe1943ef6d0" />
+
 
 other mods in repo list :
 
